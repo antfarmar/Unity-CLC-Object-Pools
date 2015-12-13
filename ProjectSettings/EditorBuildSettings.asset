@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Stuff Scene 1.unity
+    path: Assets/Object Pool/Stuff Scene 1.unity
   - enabled: 1
-    path: Assets/Stuff Scene 2.unity
+    path: Assets/Object Pool/Stuff Scene 2.unity
